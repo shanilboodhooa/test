@@ -1,0 +1,16 @@
+{
+  "name": "expresss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "req,res&rou.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon req,res&rou.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
